@@ -7,3 +7,7 @@ This add-on is based (i.e. modified to suit my format needs) on the bundled `io_
 To install this add-on, click on Code 🔽 button on [GitHub](https://github.com/mchorse/io_export_bobj), click **Download ZIP**, open Blender 2.7.\*, File > User Preferences > Add-ons > **Install Add-on From File...** and pick the ZIP you downloaded in Blender's file browser.
 
 After that, the exporter menu item should be available under File > Export. If it's not, make sure **that the add-on is enabled** in Add-ons tab of User Preferences!
+
+## Blender 2.8+?
+
+Check out `2.8` [branch](https://github.com/mchorse/io_export_bobj/tree/2.8) of this repository.
